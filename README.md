@@ -12,7 +12,7 @@ chmod +x tic_tac_toe_project.py
 ```
 ./tic_tac_toe_project.py 
 ```
-Then it will ask user to enter name and select marker 
+Then it will ask user to enter name and select marker upon entring the postion it will change corresponding postio with user's mark
 
 ![alt text](https://raw.githubusercontent.com/srsaidas/TicTocToe/master/image/tictoctoe_1.png)
 
