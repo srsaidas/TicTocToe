@@ -18,3 +18,7 @@ Then it will ask user to enter name and select marker upon entring the postion i
 
 ![alt text](https://raw.githubusercontent.com/srsaidas/TicTocToe/master/image/tictoctoe_2.png)
 
+if any palyer able to complete row wise, colum wise or diagonal wise same mark then that player will be winner of that game 
+
+![alt text](https://raw.githubusercontent.com/srsaidas/TicTocToe/master/tictoctoe_3.png)
+
